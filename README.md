@@ -11,7 +11,7 @@ It is important that the displays have a common anode, not common cathode.
 
 The shift registers used in this project are TPIC6B595 chips.
 
-![ESP_32_listening](four-inch-led-digit.png)
+![four-inch-digit](four-inch-led-digit.png)
 
 See it in operation:
 

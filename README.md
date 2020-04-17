@@ -1,5 +1,5 @@
 # large-7-segment-led-display
-How to build a countdown timer using 4 inch / 10 cm tall 7 segment LED displays
+How to build a countdown timer using four 4 inch / 10 cm tall 7 segment LED displays
 
 See https://www.sabulo.com/sb/arduino/using-7-segment-led-displays-part-3/ for details.
 
@@ -11,4 +11,8 @@ It is important that the displays have a common anode, not common cathode.
 
 The shift registers used in this project are TPIC6B595 chips.
 
+![ESP_32_listening](four-inch-led-digit.png)
 
+See it in operation:
+
+https://youtu.be/i9dO-dGZF3w
